@@ -1,0 +1,6 @@
+Application: Text Inspector
+Author: Chelsea Greger
+Email: greger@madisoncollege.edu
+Input file: /home/student/projects/bigFile.txt
+Analyzed on: Sun Nov 20 18:37:12 CST 2016
+Total token count: 4468588

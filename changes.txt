@@ -1,0 +1,4 @@
+Took out unneeded if/else for the mostCommonSize symbolCount calculation
+Separated loading files into new methods instead of loading them within
+the constructors (within project 2 and 3...)
+separated output sections in keyword analyzer for better readablity

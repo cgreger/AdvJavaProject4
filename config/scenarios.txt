@@ -1,0 +1,31 @@
+images/MvcGame/forest-path.jpg
+You are lost in the forest. You find a path that looks promising.
+Go left.
+Oh no! You were attacked by a bear! Game Over.
+Go right.
+Oh no! A tree fell on you! Game over.
+Go straight.
+true
+images/MvcGame/forest-bridge.jpg
+The path leads you to an old bridge.
+Cross the bridge.
+Oh no! The bridge fell from beneath your feet! Game Over.
+Go into the foliage to the left.
+true
+Go into the foliage to the right.
+Oh no! You walked into quick sand! Game Over.
+images/MvcGame/tree-house.jpg
+That bridge did not look safe. You make your way through the foliage and see a creepy tree house.
+Turn around.
+Oh no! You were attacked by the evil forest witch! Game Over.
+Enter the tree house.
+true
+Walk past the tree house.
+Oh no! You fell into the evil forest witch's trap! Game Over.
+images/MvcGame/portal.jpg
+You enter the tree house to find a magical portal! The portal pulls you in and spits you out to your front door step. You Win!
+ 
+ 
+ 
+ 
+ 
